@@ -371,7 +371,7 @@
 	"id": "https://raw.githubusercontent.com/TyusWelter/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715150147813",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T14:01:47.813Z",
-	"dcterms:modified": "2025-07-15T14:01:47.813Z",
+	"dcterms:modified": "2025-07-15T14:02:18.077Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/TyusWelter",
 		"@type": [
@@ -525,7 +525,7 @@
             </lg>
 
             <lg n="16" xml:id="lg016">
-               <l n="46">“Tell me, my <persName type="real" xml:id="Virg02" key="Virgil." ref="http://viaf.org/viaf/8194433" role="poet" subtype="Roman">Master</persName>, tell me, thou my <persName type="real" xml:id="Virg03" ref="http://viaf.org/viaf/8194433" key="Virgil.">Lord</persName>,”</l>
+               <l n="46">“Tell me, my <persName type="real" xml:id="Virg02" key="Virgil." ref="http://viaf.org/viaf/8194433" role="poet" subtype="Roman">Master</persName>, tell me, thou my <persName type="real" xml:id="Virg03" key="Virgil." ref="http://viaf.org/viaf/8194433" role="poet" subtype="Roman">Lord</persName>,”</l>
                <l n="47">Began I, with desire of being certain</l>
                <l n="48">Of that Faith which o’ercometh every error,</l>
             </lg>
