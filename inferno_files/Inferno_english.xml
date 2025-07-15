@@ -146,12 +146,12 @@
 
             <lg n="18" xml:id="lg018">
                <l n="52">Replied: “I was a novice in this state,</l>
-               <l n="53">When I saw hither come a Mighty One,</l>
+               <l n="53">When I saw hither come a <persName type="real" xml:id="Jesus01">Mighty One</persName>,</l>
                <l n="54">With sign of victory incoronate.</l>
             </lg>
 
             <lg n="19" xml:id="lg019">
-               <l n="55">Hence he drew forth the shade of the First Parent,</l>
+               <l n="55">Hence he drew forth the shade of the <persName type="identifiable" xml:id="Adam01">First Parent</persName>,</l>
                <l n="56">And that of his son Abel, and of Noah,</l>
                <l n="57">Of Moses the lawgiver, and the obedient</l>
             </lg>
