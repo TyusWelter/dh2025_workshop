@@ -217,8 +217,8 @@
             </lg>
 
             <lg n="30" xml:id="lg030">
-               <l n="88">That one is <persName type="identifiable" xml:id="Homer01">Homer</persName>, Poet sovereign;</l>
-               <l n="89">He who comes next is <persName type="real" xml:id="Horace01">Horace</persName>, the satirist;</l>
+               <l n="88">That one is <persName role="poet" subtype="Greek" type="identifiable" xml:id="Homer01">Homer</persName>, Poet sovereign;</l>
+               <l n="89">He who comes next is <persName role="poet" subtype="Roman" type="real" xml:id="Horace01">Horace</persName>, the satirist;</l>
                <l n="90">The third is <persName type="real" xml:id="Ovid01">Ovid</persName>, and the last is <persName type="real" xml:id="Lucan01">Lucan</persName>.</l>
             </lg>
 
@@ -285,7 +285,7 @@
             <lg n="41" xml:id="lg041">
                <l n="121">I saw <persName type="fictional" xml:id="Electra01">Electra</persName> with companions many,</l>
                <l n="122">’Mongst whom I knew both <persName type="fictional" xml:id="Hector01">Hector</persName> and <persName type="fictional" xml:id="Aeneas01">Aeneas</persName>,</l>
-               <l n="123">Caesar in armour with gerfalcon eyes;</l>
+               <l n="123"><persName type="real" xml:id="Caesar01">Caesar</persName> in armour with gerfalcon eyes;</l>
             </lg>
 
             <lg n="42" xml:id="lg042">
