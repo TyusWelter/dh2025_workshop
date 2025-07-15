@@ -133,7 +133,7 @@
             </lg>
 
             <lg n="16" xml:id="lg016">
-               <l n="46">“Tell me, my Master, tell me, thou my Lord,”</l>
+               <l n="46">“Tell me, my <persName type="real" xml:id="Virg02">Master</persName>, tell me, thou my <persName type="real" xml:id="Virg03">Lord</persName>,”</l>
                <l n="47">Began I, with desire of being certain</l>
                <l n="48">Of that Faith which o’ercometh every error,</l>
             </lg>
