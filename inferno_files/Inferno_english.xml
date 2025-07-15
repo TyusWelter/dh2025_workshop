@@ -290,7 +290,7 @@
 
             <lg n="42" xml:id="lg042">
                <l n="124">I saw Camilla and Penthesilea</l>
-               <l n="125">On the other side, and saw the King Latinus,</l>
+               <l n="125">On the other side, and saw the King <persName role="mythological character" subtype="Greek" type="fictional" xml:id="Latinus01">Latinus</persName>,</l>
                <l n="126">Who with Lavinia his daughter sat;</l>
             </lg>
 
